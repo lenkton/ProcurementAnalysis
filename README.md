@@ -1,0 +1,2 @@
+# ProcurementAnalysis
+ The project allows users to collect and analyse a basic public contracts data. The project contains several programmes at the moment which are responsible for the different parts of the process. The first selects the contracts in a specific field of economy, the second collects the data from them. The output is a table, which could be then imported into SPSS, Excel or something else.
